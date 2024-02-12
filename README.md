@@ -1,4 +1,10 @@
-### Hi there 👋
+# Olá, eu sou Eduardo 👋
+
+## 📚 Minhas Anotações
+
+### [Mongo DB](https://compartilhando-conhecimento.notion.site/MongoDB-1491876343364a1cb8b6f00f580232d9)
+### [POO + SOLID](https://compartilhando-conhecimento.notion.site/POO-SOLID-f0844304c43045a7944733b8d730dd35)
+### [MVC e MVVM](https://www.notion.so/compartilhando-conhecimento/MVC-e-MVVM-417af55454874390b5804b681f6b2465)
 
 <!--
 **EduardoGabrielWehrmeister/eduardogabrielwehrmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
